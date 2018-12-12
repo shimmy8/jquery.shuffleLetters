@@ -1,0 +1,19 @@
+{
+  "name": "shuffle-letters",
+  "version": "1.1.0",
+  "description": "Shuffle Letters Effect: a jQuery Plugin",
+  "main": "jquery.shuffleLetters.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shimmy8/jquery.shuffleLetters.git"
+  },
+  "author": "Martin Angelov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shimmy8/jquery.shuffleLetters/issues"
+  },
+  "homepage": "https://github.com/shimmy8/jquery.shuffleLetters#readme"
+}
